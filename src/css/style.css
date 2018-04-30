@@ -1,0 +1,15 @@
+body {
+  background: yellow;
+}
+h1 {
+  color: green;
+}
+h2 {
+  color: blue;
+}
+a {
+  -webkit-transition: all 320ms ease;
+  transition: all 320ms ease;
+}
+
+/*# sourceMappingURL=style.css.map */
